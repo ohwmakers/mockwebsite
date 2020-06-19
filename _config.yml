@@ -1,0 +1,65 @@
+url: https://openhardware.space
+baseurl: /
+
+# Site settings
+title: Open Hardware Makers
+email: ohwmakers@gmail.com
+description: ""
+
+
+# Team names, titles and social links
+people:
+- name: Julieta Arancio
+  pic: julieta
+#  position: Lead Marketer
+  social:
+    - title: twitter
+      url: https://twitter.com/Cassandreces
+#    - title: facebook
+#      url: #
+#    - title: linkedin
+#      url: #
+
+- name: Alex Kutschera
+  pic: alex
+#  position: Lead Developer
+  social:
+    - title: twitter
+      url: https://twitter.com/alexwastooshort
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+- name: Andre M Chagas
+  pic: andre1
+#  position: Lead Developer
+  social:
+    - title: twitter
+      url: https://twitter.com/chagas_am
+#    - title: facebook
+#      url: #
+#    - title: google-plus
+#      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/openHWmakers
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket
+#    url: http://bitbucket.org/jekyll
+  - title: github
+    url: https://github.com/ohwmakers
+# Postal address (add as many lines as necessary)
+#address:
+#  - line: 3481 Melrose Place
+#  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
