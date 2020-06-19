@@ -634,6 +634,10 @@ section h3.section-subheading {
     }
 }
 
+section#team{
+padding-top: 0px;    
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
